@@ -6,6 +6,8 @@ public class Util {
 		System.out.println(a+"right");
 		System.out.println(a+"解决冲突之后");
 	    System.out.println(a+"left");
-	}
+		System.out.println(a+"left");
+		System.out.println("tset for branch hot_fix after");
 
+	}
 }
